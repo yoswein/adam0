@@ -10,7 +10,8 @@
 		"license": "ISC",
 		"private": true,
 		"dependencies": {
-				"@whitesource-adam/haythem-library": "1.0.0"
+				"@whitesource-adam/haythem-library": "1.0.0",
+				"fresh": "0.3.0"
 		}
 }
 

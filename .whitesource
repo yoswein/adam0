@@ -17,8 +17,8 @@
       "matchHost": "https://wsdev.jfrog.io/artifactory/api/npm/haythem-npm/",
       "hostType":"npm",
       "userName":"adamsagas",
-      "encrypted": {
-        "password": "wcBLA90FtVIhcznKAQfzBVP+S5+UuQA8XUYld55q1kHze1DJYG64HxO92Fyg+Gg/1OfzNu0RPfNR796vQoilRgOeamG+OcBi2OsR+Hlkag6L0z7paI3QnZmv2AaGYIss3Axuro9cAUpeVE/WqCl85IxR35kttF5l0TI9uT3DsjUhaNHtfd1PxyasF3Z7gWrxxNngLLlS5fFONmesmHX+GSKz/t2cd8gxJXCM0x488ebjxUm3xF2dF9GQMN+B85oyZJo+Sq9w/j9w+hlca8pTqIsZPRvGFM9vnN4ouT6CVgtwqvbnrTAEIR7qJnbGEeeOyaHRJgQH6IJzD64e/Tl4pNiMQSwLjHcQi9X1Ycii0nIBCd97WIBLbrl1LiUqpFCUAdKJ3aUDXA8tsWvkIy1eCwXWIHBUX7OIQMj8MS1cKOVJz40fcWL+3wqg72c+kQXKSOQZOhnv/Ipc6tDx/lkVriqvz5JgeN2oa63xnpoDSlYN4ZhST6jb0egObX8jzOnvOnk"
+      "token": {
+        "password": "eyJ2ZXIiOiIyIiwidHlwIjoiSldUIiwiYWxnIjoiUlMyNTYiLCJraWQiOiJFQXFhVHVlaldyQUtZcVhoN25faFQ3WEYxU0Jhd3pjalBOR215Mm5FemhvIn0.eyJzdWIiOiJqZmZlQDAwMFwvdXNlcnNcL2FkYW1zYWdhcyIsInNjcCI6ImFwcGxpZWQtcGVybWlzc2lvbnNcL2FkbWluIGFwaToqIiwiYXVkIjoiKkAqIiwiaXNzIjoiamZmZUAwMDAiLCJpYXQiOjE2MzMwMDIwMDMsImp0aSI6ImNmMGNmNDFhLWIxYzktNGQ0My04NGU0LWVlYjQ0MGVmMGYxMCJ9.qC4WTeR9K--SuBFSPKQazr7KNnjqqBGzGcFzJKzBbUGA0MBEfkaT0YW1YXdjQSwKUm10OwTujMxFwjOZyXvUhYG3KvkH5DlnbXJL1ixUc-1v_sPaE3jtCdkb7co4lhxEgAmqUQEsKp3Oy7Go-vl9YtWnWq9-26Ef0zOei_XEPCXQKNhzutLCSHw4ab3g2m3wqAc6sQMuA-8wBmbi5EmfoabBgbWBClSwgiZ5iRvOeJhVoBwH5Ej20E2yb_Z_l_iyyKg-62dJ_5HO9MlcKh2caxgnQtCBaO2bDnx_VECUWKNyrg9evLilVCQla9dj6L3ZEF2z26nzohtQtK76omsKxg"
       }
     }
   ]

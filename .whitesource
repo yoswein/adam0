@@ -12,6 +12,9 @@
   "issueSettings": {
     "minSeverityLevel": "LOW"
   },
+  "remediateSettings": {
+    "enableRenovate": true
+  },
   "hostRules": [
 	{
       "matchHost": "https://wsdev.jfrog.io/artifactory/api/npm/haythem-npm/",
